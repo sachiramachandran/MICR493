@@ -18,9 +18,8 @@ input_fasta = "data/toxoplasma.fasta",          # <-- CHANGED: Your sequence fil
 input_metadata = "data/toxoplasma_metadata.tsv",  # <-- CHANGED: Your metadata file name
 dropped_strains = "config/dropped_strains.txt",
 
-# You MUST ensure your Toxoplasma reference is at this location
-# If your reference is 'data/toxoplasma_reference.fasta', change the path:
-reference = "data/toxoplasma_reference.fasta",   # <-- CHANGED: Path to your Toxo reference file
+# New outgroup in config folder
+reference = "config/ToxoplasmaOutgroup.gb",
 
 colors = "config/colors.tsv",
 lat_longs = "config/lat_longs.tsv",
