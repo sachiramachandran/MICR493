@@ -1,0 +1,57 @@
+LOCUS       AF239291                 740 bp    DNA     linear   INV 01-MAY-2000
+DEFINITION  Toxoplasma gondii strain CASTELLS granule antigen protein GRA6
+            (GRA6) gene, complete cds.
+ACCESSION   AF239291
+VERSION     AF239291.1
+KEYWORDS    .
+SOURCE      Toxoplasma gondii
+  ORGANISM  Toxoplasma gondii
+            Eukaryota; Sar; Alveolata; Apicomplexa; Conoidasida; Coccidia;
+            Eucoccidiorida; Eimeriorina; Sarcocystidae; Toxoplasma.
+REFERENCE   1  (bases 1 to 740)
+  AUTHORS   Fazaeli,A., Carter,P.E., Darde,M.L. and Pennington,T.H.
+  TITLE     Molecular typing of Toxoplasma gondii strains by GRA6 gene sequence
+            analysis
+  JOURNAL   Int. J. Parasitol. 30 (5), 637-642 (2000)
+   PUBMED   10779578
+REFERENCE   2  (bases 1 to 740)
+  AUTHORS   Fazaeli,A., Carter,P.E. and Pennington,T.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-FEB-2000) Medical Microbiology, University of
+            Aberdeen, Foresterhill, Aberdeen, Scotland AB25 2ZD, UK
+FEATURES             Location/Qualifiers
+     source          1..740
+                     /organism="Toxoplasma gondii"
+                     /mol_type="genomic DNA"
+                     /strain="CASTELLS"
+                     /db_xref="taxon:5811"
+     gene            23..715
+                     /gene="GRA6"
+                     /allele="GR6-7"
+     CDS             23..715
+                     /gene="GRA6"
+                     /allele="GR6-7"
+                     /codon_start=1
+                     /product="granule antigen protein GRA6"
+                     /protein_id="AAF60342.1"
+                     /translation="MAHGGIHLRQKRNFCPLTVSTVAVVFVVFMGVLVNSLGGVAVAA
+                     DSDGVKQTPSETGSSGGQQEAVGTTEDYVNSSAMGGGQGDSLAEDDTTSDAAEGDVDP
+                     FPVLANEGKSEARGPSLEERIEEQGTRRRYSSVQEPQAKVPSKRTQKRHRLIGAVVLA
+                     VSVAMLTAFFLRRTGRRSPPEPSGDGGGNDAGNNAGNGGNEGRGYRGRGEGGGEDDRR
+                     ALHPGSVNVFDY"
+ORIGIN      
+        1 ttttcttggg agtgtcggcg aaatggcaca cggtggcatc catctgaggc agaagcgtaa
+       61 cttctgtcct ttaactgtct ccacagttgc tgtggtcttt gtagtcttca tgggtgtact
+      121 cgtcaattcg ttgggtggag tcgctgtcgc agcagacagc gatggtgtta agcagacccc
+      181 ttcggaaacc ggttcgagcg gtggacagca agaagcagtg gggaccactg aagactatgt
+      241 caactcttcg gcgatgggcg gtggccaagg cgactcgtta gctgaagatg atacaacctc
+      301 cgatgcggcg gagggcgacg ttgacccttt tcccgtgctg gcgaatgagg ggaagtcgga
+      361 ggcgcgtggc ccgtcgctcg aggaaagaat cgaagaacag ggcacaagac gacgttactc
+      421 ctctgttcaa gaaccacaag cgaaggtgcc tagcaaacga acacagaaac gccacagact
+      481 cattggtgct gtggtgttgg cagtatctgt ggcaatgctt accgctttct ttcttcgaag
+      541 gactggacga cgctctcccc cagaaccatc tggggatggt ggtggaaatg atgcaggcaa
+      601 taatgctggg aacggtggga atgaaggcag aggttacaga ggcagaggtg aaggaggagg
+      661 cgaggatgac aggcgcgcgt tgcacccggg aagtgtgaat gtgtttgatt attaaagatg
+      721 aaaacagggg gtctatgcgc
+//
+
