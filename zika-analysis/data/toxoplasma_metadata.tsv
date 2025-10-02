@@ -1,4 +1,4 @@
-strain	Microbe	Date	Region	Country	Latitude	Longitude	Host
+strain	microbe	date	region	country	latitude	longitude	host
 Ankara-TgH102001	Toxoplasma	1972-XX-XX	Asia	Turkey	39.936944	32.846944	Human (congenital)
 ENVL-2002-MAC	Toxoplasma	2002-XX-XX	Caribbean	Barbados	13.15055	-59.5461	Macaque (Cynomolgus sp)
 FR-OVI-ARI021-TgA32088	Toxoplasma	2007-XX-XX	Europe	France 	44.158055	6.084166	Sheep (Ovis aries)
