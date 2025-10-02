@@ -47,7 +47,7 @@ rule filter:
     params:
         group_by = "country year month",
         sequences_per_group = 20,
-        min_date = 2012
+        min_date = 1970
     conda: "envs/nextstrain.yaml"
     shell:
         """
