@@ -1,0 +1,398 @@
+{
+  "annotations": {
+    "GRA6": {
+      "end": 715,
+      "seqid": "config/ToxoplasmaOutgroup.gb",
+      "start": 23,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "nuc": {
+      "end": 740,
+      "seqid": "config/ToxoplasmaOutgroup.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "source"
+    }
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "31.5.0"
+  },
+  "nodes": {
+    "Ankara-TgH102001": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "ENVL-2002-MAC": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "FR-OVI-ARI021-TgA32088": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "FR-OVI-ARI029-TgA32095": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "FR-OVI-ARI042-TgA32108": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "FR-OVI-ARI050-TgA32116": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "GAB3-GAL-DOM02-TgA105001": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "GAB3-GAL-DOM11-TgA105043": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "GAB5-GAL-DOM03-TgA105055": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "GUY-CAN-FAM-07-TgA18006": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "NODE_0000000": {
+      "aa_muts": {
+        "GRA6": [
+          "E201X",
+          "G202X",
+          "R203X",
+          "G204X",
+          "Y205X",
+          "R206X",
+          "G207X",
+          "R208X",
+          "G209X",
+          "E210X",
+          "G211X",
+          "G212X",
+          "G213X",
+          "E214X",
+          "D215X",
+          "D216X",
+          "R217X",
+          "R218X",
+          "A219X",
+          "L220X",
+          "H221X",
+          "P222X",
+          "G223X",
+          "S224X",
+          "V225X",
+          "N226X",
+          "V227X",
+          "F228X",
+          "D229X",
+          "Y230X",
+          "*231X"
+        ]
+      },
+      "aa_sequences": {
+        "GRA6": "MAHGGIHLRQKRNFCPLTVSTVAVVFVVFMGVLVNSLGGVAVAADSGGVRQTPSETGSSGGQQEAVGTTEDYVNSSAMGGGQGDSLAEDDTTSDAAEGDVDPFPVLANEGKSEARGPSLEERIEEQGTRRRYSSVQEPQAKVPSKRTQKRHRLIGAVVLAVSVAMLTAFFLRRTGRRSPPEPSGDGGGNDAGNNAGNGGNXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+      }
+    },
+    "NODE_0000001": {
+      "aa_muts": {
+        "GRA6": [
+          "G47D",
+          "G198R"
+        ]
+      }
+    },
+    "NODE_0000004": {
+      "aa_muts": {
+        "GRA6": [
+          "G186D"
+        ]
+      }
+    },
+    "NODE_0000005": {
+      "aa_muts": {
+        "GRA6": [
+          "G47D",
+          "T92A"
+        ]
+      }
+    },
+    "NODE_0000006": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "NODE_0000008": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "NODE_0000010": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "NODE_0000011": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "NODE_0000012": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "NODE_0000013": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "NODE_0000014": {
+      "aa_muts": {
+        "GRA6": [
+          "K50Q"
+        ]
+      }
+    },
+    "NODE_0000015": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "NODE_0000016": {
+      "aa_muts": {
+        "GRA6": [
+          "R50K"
+        ]
+      }
+    },
+    "NODE_0000017": {
+      "aa_muts": {
+        "GRA6": [
+          "L17V",
+          "D94E",
+          "P180Q"
+        ]
+      }
+    },
+    "NODE_0000018": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "NODE_0000019": {
+      "aa_muts": {
+        "GRA6": [
+          "H7Y",
+          "V105A",
+          "P180Q",
+          "D185G"
+        ]
+      }
+    },
+    "NODE_0000020": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "NODE_0000021": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "NODE_0000022": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "NODE_0000023": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "NODE_0000024": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "NODE_0000025": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "NODE_0000026": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "NODE_0000027": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "NODE_0000028": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "NODE_0000029": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgCatBr60": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgCatCHn01": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgCatCZg02": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgCatPr06": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgCatPr08": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgCkAt08": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgCkAt20": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgCkAt27": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgCkBr181": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgCkPr03": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgCkPr11": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgCpBr18": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgCtwh14": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgGtEt01": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgGtEt02": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgGtEt04": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgGtEt14": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgH00009": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgH13006": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgH18008": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgH19006": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgH40002": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgH42001": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgJagBr01": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgPiPr09": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgPiPr13": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    },
+    "TgWTDPa06": {
+      "aa_muts": {
+        "GRA6": []
+      }
+    }
+  },
+  "reference": {
+    "GRA6": "MAHGGIHLRQKRNFCPLTVSTVAVVFVVFMGVLVNSLGGVAVAADSGGVRQTPSETGSSGGQQEAVGTTEDYVNSSAMGGGQGDSLAEDDTTSDAAEGDVDPFPVLANEGKSEARGPSLEERIEEQGTRRRYSSVQEPQAKVPSKRTQKRHRLIGAVVLAVSVAMLTAFFLRRTGRRSPPEPSGDGGGNDAGNNAGNGGNEGRGYRGRGEGGGEDDRRALHPGSVNVFDY*"
+  }
+}
