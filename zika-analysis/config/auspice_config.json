@@ -16,8 +16,8 @@
       "type": "continuous"
     },
     {
-      "key": "author",
-      "title": "Author",
+      "key": "host",
+      "title": "Host",
       "type": "categorical"
     },
     {
